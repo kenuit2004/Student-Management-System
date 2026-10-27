@@ -128,7 +128,7 @@ public class JDBCStudentManagementSystem
 					    }
 					    default:
 					    {
-					    	System.out.println("Invalid Choice");
+					    	System.out.println("Invalid Choice Entered");
 					    	break;
 					    }
 					}
